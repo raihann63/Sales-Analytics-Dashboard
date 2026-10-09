@@ -1,0 +1,4 @@
+Project Name: Company Sales Analytics Dashboard
+Database Used: PostgreSQL (Table: company_sales)
+BI Tool: Power BI Desktop
+Key Metrics: Sales by Category, Product Quantity Distribution.
